@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Olá, eu sou o Fernando
 
-<!--
-**FSBits/FSBits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na EACH-USP (1º semestre)💻 Apaixonado por programação, sistemas de informação e tecnologia
 
-Here are some ideas to get you started:
+💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Linguagens: C, C++, Python
+
+⚙️ Ferramentas: Git & GitHub, VS Code
+
+📫 Como me encontrar
+
+✉️ Email: fsbarretofilho@gmail.com
+
+🔗 LinkedIn: Fernando Silva Barreto Filho
+
+💻 GitHub: github.com/FSBits
+
+🧪 Projetos em destaque
+
+(Em breve...)
+
+✨ Fun Facts
+
+“fs” era meu nickname na PSN 🎮
+
+
