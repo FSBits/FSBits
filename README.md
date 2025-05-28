@@ -20,8 +20,6 @@
 
 (Em breve...)
 
-✨ Fun Facts
 
-“fs” era meu nickname na PSN 🎮
 
 
