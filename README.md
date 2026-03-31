@@ -1,24 +1,20 @@
 👋 Olá, eu sou o Fernando
 
-🎓 Estudante de Sistemas de Informação na EACH-USP (1º semestre)💻 Apaixonado por programação, sistemas de informação e tecnologia
+🎓 Estudante de Sistemas de Informação na EACH-USP (3º semestre)💻
 
-💼 Skills
-
-🧠 Linguagens: C, C++, Python
-
-⚙️ Ferramentas: Git & GitHub, VS Code
+🧠 Linguagens: C, C++, Python, 
 
 📫 Como me encontrar
 
 ✉️ Email: fsbarretofilho@gmail.com
 
-🔗 LinkedIn: Fernando Silva Barreto Filho
+🔗 LinkedIn: 
 
 💻 GitHub: github.com/FSBits
 
-🧪 Projetos em destaque
 
-(Em breve...)
+
+
 
 
 
